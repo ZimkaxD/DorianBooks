@@ -1,3 +1,3 @@
-Authbd.php
-BD.php
-index.php
+#Authbd.php
+#BD.php
+#index.php
